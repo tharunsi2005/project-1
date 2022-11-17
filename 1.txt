@@ -1,0 +1,15 @@
+HTML Coding
+<DOCTYPE html>
+<html>
+<head>
+<title>HELLO WORLD</title>
+</head>
+<body bgcolo="pink">
+<h1>basic needs</h1>
+<p>Food, water, clothing, sleep, and shelter are the bare necessities for anyone's survival. For many people,
+these basic needs can not be met without the aid of charitable organizations.</p>
+<h2>Creatures</h2>
+<p1> Using a new technique based on scaling, ecologist Camilo Mora, a marine ecologist at the University of Hawaii,
+and his colleagues at Dalhousie University in Halifax, Canada, have estimated the Earth is home to 8.7 billion species.</p1>
+</body>
+</html>
